@@ -2,7 +2,7 @@
 
 Assembly AI is a service that uses AI models for audio transcription. While this is a paid service, they have some free tools available for use. You can try it out on their webiste at: https://www.assemblyai.com/playground/source.
 
-For this project I used the Aseembly AI API to analyze the audio content of a short podcast episode (there's a limit to how much transciption you get for free). I then created a dashboard to explore the audio content using Pyvis.
+For this project I used the Aseembly AI API to analyze the audio content of a short podcast episode (there's a limit to how much transciption you get for free). I then created a dashboard to explore the audio content using Panel in Python.
 
 ![Dashboard](https://github.com/elitay152/AssemblyAI_Audio_Project/blob/main/Pyvis_Dashboard.jpg)
 
